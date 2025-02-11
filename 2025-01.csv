@@ -1,21 +1,21 @@
-Date,Description,Amount,Balance
-2025-01-01,Opening Balance,0,4000
-2025-01-02,Coffee Shop,-15,3985
-2025-01-03,Salary Credit,3000,6985
-2025-01-04,ATM Withdrawal,-200,6785
-2025-01-05,Grocery Store,-120,6665
-2025-01-06,Unknown Transaction,-250,6415
-2025-01-08,Gas Station,-60,6355
-2025-01-10,Electricity Bill,-180,6175
-2025-01-12,Unknown Transaction,-500,5675
-2025-01-14,Online Shopping,-300,5375
-2025-01-15,Restaurant,-75,5300
-2025-01-17,Unknown Transaction,-1000,4300
-2025-01-18,Pharmacy,-45,4255
-2025-01-20,Internet Bill,-50,4205
-2025-01-22,Cinema,-40,4165
-2025-01-23,Unknown Transaction,-350,3815
-2025-01-25,Gym Membership,-60,3755
-2025-01-27,Car Service,-400,3355
-2025-01-29,Gift Purchase,-150,3205
-2025-01-31,Closing Balance,0,3205
+Date,Description,Amount
+2025-01-01,Opening Balance,0
+2025-01-02,Coffee Shop,-15
+2025-01-03,Salary Credit,3000
+2025-01-04,ATM Withdrawal,-200
+2025-01-05,Grocery Store,-120
+2025-01-06,Unknown Transaction,-250
+2025-01-08,Gas Station,-60
+2025-01-10,Electricity Bill,-180
+2025-01-12,Unknown Transaction,-500
+2025-01-14,Online Shopping,-300
+2025-01-15,Restaurant,-75
+2025-01-17,Unknown Transaction,-1000
+2025-01-18,Pharmacy,-45
+2025-01-20,Internet Bill,-50
+2025-01-22,Cinema,-40
+2025-01-23,Unknown Transaction,-350
+2025-01-25,Gym Membership,-60
+2025-01-27,Car Service,-400
+2025-01-29,Gift Purchase,-150
+2025-01-31,Closing Balance,0
