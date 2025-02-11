@@ -7,7 +7,7 @@
 
 You have designed a custom file format to track your monthly expenses. It is time for you to add your expenses for February 2025.
 
-The process begins by creating a new file that will store all transactions for February 2025. The file needs to follow the same structure as previous months' records, including columns for Date, Description, Amount.
+The process begins by creating a new file (format: `yyyy-MM.csv`) that will store all transactions for February 2025. The file needs to follow the same structure as previous months' records, including columns for Date (format: `yyyy-MM-dd`), Description, Amount.
 
 This is what some of the records for January 2025 looks like (file also included):
 
@@ -60,6 +60,39 @@ Date,Description,Amount
 2025-02-03,Haircut,-14.00
 2025-02-05,Dinner with friends,-50.25
 ```
+
+</details>
+
+## Part 2
+
+As you were filling in your expenses for February 2025, you look back to the expenses logged for January 2025 and you notice that there are several erroneous entries.
+
+Specifically, you realize that the "Description" for some of the entries are listed as "Unknown Transaction". That's not good for tracking!
+
+### Goal
+
+Can you go through the expenses from January 2025 and find the erroneous entries and correct them? (Any other values work!)
+
+### Hints
+
+<details>
+
+<summary>Hint 1</summary>
+
+Have you taken a look at the `2025-01.csv` file?
+
+</details>
+
+<details>
+
+<summary>Hint 2</summary>
+
+These are the entries that need to be fixed:
+
+- 2025-01-06: -250
+- 2025-01-12: -500
+- 2025-01-17: -1000
+- 2025-01-23: -350
 
 </details>
 
