@@ -1,4 +1,6 @@
-# Double take
+# `double-take`
+
+You are trying to be more judicious in your expense tracking and have starting tracking your expenses on your computer.
 
 > [!NOTE]  
 > There are two parts to this exercise! Read carefully!
@@ -26,7 +28,7 @@ Specifically, in February 2025, there were three expenses:
 | 3 February 2025 | Haircut             | -14.00 |
 | 5 February 2025 | Dinner with friends | -50.25 |
 
-### Goal
+### Task
 
 Please add the above entries for your February 2025 expenses. Please name the file `2025-02.csv`. Feel free to add more entries for fun!
 
@@ -69,7 +71,7 @@ As you were filling in your expenses for February 2025, you look back to the exp
 
 Specifically, you realize that the "Description" for some of the entries are listed as "Unknown Transaction". That's not good for tracking!
 
-### Goal
+### Task
 
 Can you go through the expenses from January 2025 and find the erroneous entries and correct them? (Any other values work!)
 
@@ -95,6 +97,10 @@ These are the entries that need to be fixed:
 - 2025-01-23: -350
 
 </details>
+
+## Learning outcomes
+
+- [ ] Apply `git add` and `git commit`
 
 ## Submission
 
